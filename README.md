@@ -68,7 +68,7 @@ cd backend
 
 # WireFrame
 
- ![wireframeAll.jpg](images//wireframeAll.png)
+ ![wireframeAll.jpg](images/wireframe/wireframeAll.png)
 
  <strong>좀 더 상세한 화면들은 images폴더에 wireframe 안에 있습니다.</strong>
 
