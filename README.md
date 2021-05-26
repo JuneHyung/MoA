@@ -21,13 +21,9 @@
 
  이러한 문제를 겪는 소비자(학생, 취준생 등)가 많을 것이라 생각하여 프로젝트를 함께할 팀원을 모으고 멘토를 구할 수 있는 펀딩 시스템을 도입한 서비스 "MoA"(Make of teAm)를 기획하게 되었다.
 
-# 개발 일정
-
- 2021.01.11 ~ 2021.02.19
- ![plan.jpg](images/plan.jpg)
 
 # 진행프로세스
-
+2021.01.11 ~ 2021.02.19
 ![process.png](images/process.png)
 
 
@@ -72,7 +68,7 @@ cd backend
 
 # WireFrame
 
- ![wireframeAll.jpg](images/wireframeAll.png)
+ ![wireframeAll.jpg](images//wireframeAll.png)
 
  <strong>좀 더 상세한 화면들은 images폴더에 wireframe 안에 있습니다.</strong>
 
